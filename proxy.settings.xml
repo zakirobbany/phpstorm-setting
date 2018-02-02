@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="attendance-system" />
+    <option name="PROXY_PORT" value="9017" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="PROXY_EXCEPTIONS" value="http://103.247.15.185" />
+  </component>
+</application>
